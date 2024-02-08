@@ -1,0 +1,1 @@
+I think the PureComponent is performing better because the PureComponent only re-renders is its state or props is changed. This helps to the improvement in performance as unnecessary re-renders are avoided.So, PureComponent performs better than the simpleComponent.
